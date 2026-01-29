@@ -1,0 +1,13 @@
+# Windows
+desktop.ini
+Thumbs.db
+
+# Java
+*.class
+*.log
+target/
+
+# IDE
+.vscode/
+.idea/
+*.iml
