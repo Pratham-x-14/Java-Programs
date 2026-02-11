@@ -1,5 +1,5 @@
 
-public class displayDetails
+public class personEmployeeManager
 {
     void main()
     {

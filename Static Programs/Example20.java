@@ -2,7 +2,7 @@ class Example20
 {
 	static int a;
 
-	int a = 40;
+	int a1 = 40;
 	
 	static int initialize() 
 	{ 
